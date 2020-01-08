@@ -1,0 +1,24 @@
+# Azure CLI version should be up-to-date
+az --version
+
+# Az not availible? Install via http://bit.ly/2sMmAVr
+
+# Authenticate first
+az login
+az account list -o table
+
+# Enumerate resource groups
+az group list
+az group list --query '[].[name,location,tags]' -o table
+
+# Create resource group
+RGNAME="Project3-RG"
+LOCATION="westeurope"
+az group create --name $RGNAME --location $LOCATION
+
+# Modify resource group
+az group update --name $RGNAME --tags 'Kostenstelle=4711'
+az group show --name $RGNAME
+
+# Delete resource group
+az group delete --name $RGNAME --yes
