@@ -1,20 +1,14 @@
-## Vier Wege nach A.
-
-RG = Resource Group
+## Five Ways to Heaven
 
 Die Aufgabe lautet:
-- alle RGs auflisten
-- eine neue RG anlegen
-- diese neue RG modifizieren (indem ein Tag angebracht wird)
-- die RG wieder löschen
+- Ein virtuelles Netzwerk anlegen mit zwei Subnetzen.
 
-Diese Aufgabe soll mit vier verschiedenen Methoden erledigt werden:
+Wir probieren fünf verschiedene Tools aus, um die Aufgabe zu erledigen:
 
-Project   | Methode
+VNet      | Tools
 --------- | ------------
-Project 1 | Azure Portal
-Project 2 | PowerShell
-Project 3 | Azure CLI
-Project 4 | REST API
-
-[Click here for more information about Tags.](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
+VNet1     | Azure Portal
+VNet2     | PowerShell
+VNet3     | Azure CLI
+VNet4     | ARM Template
+VNet5     | API

@@ -5,6 +5,10 @@ https://docs.microsoft.com/en-us/rest/api/
 ### Enumerate resource groups
 https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/list
 
+[comment]: <> (1024 pixel horizontal)
+[comment]: <> (This is a comment)
+![](img/RestListRgTryIt.png)
+![](img/RestListRgTryIt512.png)
 ![REST list](img/RestListRg.png)
 
 
