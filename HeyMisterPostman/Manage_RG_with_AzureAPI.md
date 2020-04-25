@@ -1,30 +1,42 @@
-### REST API Browser
+# How to Manage Resource Groups via Azure REST API Browser
+
+
+There is the Azure REST API Browser:
+
 https://docs.microsoft.com/en-us/rest/api/
 
+Let's manipulate resource groups with the help of Azure REST API Browser.
 
-### Enumerate resource groups
-https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/list
+
+## Enumerate Resource Groups
+[Start here](https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/list)
 
 <img src="img/RestListRgTryIt.png" width="768"/>
+
+Sign in with your Azure account
+
+<img src="img/YouAreSignedIn.png" width="384"/>
+
+Compose the request
 
 <img src="img/RestListRg.png" width="768"/>
 
 
 
 
-### Create resource group
-https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/createorupdate
+## Create Resource Group
+[Start here](https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/createorupdate)
 
 <img src="img/RestCreateRg.png" width="768"/>
 
 
-### Modify resource group
-https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/update
+## Modify Resource Group
+[Start here](https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/update)
 
 <img src="img/RestUpdateRg.png" width="768"/>
 
 
 ### Delete resouce group
-https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/delete
+[Start here](https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/delete)
 
 <img src="img/RestDeleteRg.png" width="768"/>
