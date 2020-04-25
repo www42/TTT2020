@@ -5,4 +5,6 @@ https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/list
 
 ![](img/RestListRgTryIt512.png)
 
-![](img/RestListRgTryIt512.png | width=300)
+![](img/RestListRgTryIt512.png =300x200)
+
+<img src="img/RestListRgTryIt512.png" alt="drawing" width="200"/>
