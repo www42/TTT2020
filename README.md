@@ -1,6 +1,7 @@
 # TTT 2020
 
-Lab                                     | Inhalt
+Lab                                     | Topic
 ----                                    | ------
-[Five ways to heaven](FiveWaysToHeaven) | Methoden zum Management von Azure Resources
-[Get-Coffee](Get-Coffee)                | Wie man Kaffee bekommt
+[Five Ways to Heaven](FiveWaysToHeaven) | Methods to manage Azure resources
+[Hey Mister Postman](HeyMisterPostman)  | Sending API requests to Azure
+[Get-Coffee](Get-Coffee)                | How to get coffee for free

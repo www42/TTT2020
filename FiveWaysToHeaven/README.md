@@ -1,7 +1,8 @@
-## Five Ways to Heaven
+# Five Ways to Heaven
 
 Die Aufgabe lautet:
-- Ein virtuelles Netzwerk anlegen mit zwei Subnetzen.
+
+    Ein virtuelles Netzwerk (VNet) anlegen mit zwei Subnetzen.
 
 Wir probieren fünf verschiedene Tools aus, um die Aufgabe zu erledigen:
 
