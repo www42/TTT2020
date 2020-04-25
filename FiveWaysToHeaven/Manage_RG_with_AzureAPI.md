@@ -5,26 +5,26 @@ https://docs.microsoft.com/en-us/rest/api/
 ### Enumerate resource groups
 https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/list
 
-[comment]: <> (1024 pixel horizontal)
-[comment]: <> (This is a comment)
-![](img/RestListRgTryIt.png)
-![](img/RestListRgTryIt512.png)
-![REST list](img/RestListRg.png)
+<img src="img/RestListRgTryIt.png" width="768"/>
+
+<img src="img/RestListRg.png" width="768"/>
+
+
 
 
 ### Create resource group
 https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/createorupdate
 
-![REST create](img/RestCreateRg.png)
+<img src="img/RestCreateRg.png" width="768"/>
 
 
 ### Modify resource group
 https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/update
 
-![REST update](img/RestUpdateRg.png)
+<img src="img/RestUpdateRg.png" width="768"/>
 
 
 ### Delete resouce group
 https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups/delete
 
-![REST delete](img/RestDeleteRg.png)
+<img src="img/RestDeleteRg.png" width="768"/>
